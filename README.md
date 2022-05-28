@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divesh Mandhyan</h1>
-<h3 align="center">I am Cyber Security Expert, Android Devoloper and Web Devoloper</h3>
+<h3 align="center">I am Cyber Security Expert, AI and Web Devoloper</h3>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
