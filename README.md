@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divesh Mandhyan</h1>
-<h3 align="center">I'm very passionate about my Frontend Development, API's, Backend Development and Computer Vision skills and I complete my tasks in a efficient way. I also have some projects based on my skills. To-be a Full-Stack Developer.</h3>
+<h3 align="center">I'm very passionate about my Frontend Development, API's and Computer Vision skills and I complete my tasks in a efficient way. I also have some projects based on my skills. To-be a Full-Stack Developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCSpB-MkFzawNhxpHbJe1VbA](https://www.youtube.com/channel/UCSpB-MkFzawNhxpHbJe1VbA)
 
