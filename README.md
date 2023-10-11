@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divesh Mandhyan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Divesh Mandhyan</h1>
 <h3 align="center">I'm very passionate about my Frontend Development, API's and Computer Vision skills and I complete my tasks in a efficient way. I also have some projects based on my skills. To-be a Full-Stack Developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCSpB-MkFzawNhxpHbJe1VbA](https://www.youtube.com/channel/UCSpB-MkFzawNhxpHbJe1VbA)
@@ -24,3 +24,5 @@
 <p><a href="https://www.buymeacoffee.com/diveshmandhyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diveshmandhyan" /></a></p><br><br>
 
 [![@divesh's Holopin board](https://holopin.me/divesh)](https://holopin.io/@divesh)
+
+--->
