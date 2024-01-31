@@ -27,5 +27,7 @@
 
 --->
 
+$ bash whoami.sh
+
 
 Update Coming Soon
