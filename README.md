@@ -26,8 +26,8 @@
 [![@divesh's Holopin board](https://holopin.me/divesh)](https://holopin.io/@divesh)
 
 --->
+```bash
+  $ bash whoami.sh
+```
 
-$ bash whoami.sh
-
-
-Update Coming Soon
+Working On....
